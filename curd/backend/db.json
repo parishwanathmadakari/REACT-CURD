@@ -1,0 +1,40 @@
+{
+  "User": [
+    {
+      "Name": "madakari",
+      "Salary": "75771",
+      "Company": "cisco",
+      "id": 2
+    },
+    {
+      "Name": "Shuuu",
+      "Salary": "1234",
+      "Company": "ancbdg",
+      "id": 3
+    },
+    {
+      "Name": "sri",
+      "Salary": "12325",
+      "Company": "hp",
+      "id": 4
+    },
+    {
+      "Name": "namau",
+      "Salary": "1324",
+      "Company": "hp",
+      "id": 5
+    },
+    {
+      "Name": "hanuman",
+      "Salary": "97688",
+      "Company": "dell",
+      "id": 6
+    },
+    {
+      "Name": "abd",
+      "Salary": "4566",
+      "Company": "msi",
+      "id": 7
+    }
+  ]
+}

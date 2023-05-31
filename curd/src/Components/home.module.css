@@ -1,0 +1,90 @@
+*{
+
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+#nav{
+
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px white solid;
+
+}
+#nav>a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif\;
+
+}
+#myform{
+
+    border: 2px white black;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-color:black;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+   
+    
+}
+#myform>form{
+
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px; 
+     box-shadow: 0px 0px 30px gray;
+    
+
+}
+#homepage{
+
+    height: 92vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#cards{
+    height: 280px;
+    width: 280px;
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px white;
+
+}
+#cards>table>tr td,th{
+padding: 15px;
+color: black;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+    
+    
+}
+h3{
+
+  
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
